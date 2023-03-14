@@ -8,9 +8,9 @@ You can follow me:
 <!--- Web: [Jamshid-Ganiev]()-->
 
 <a href="https://github.com/Jamshid-Ganievr">
-<p align="center">
+<p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamshid-Ganiev&theme=github_dark">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5"><br>
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5"><br>
     </p>
 </a> 
