@@ -15,3 +15,7 @@ You can follow me:
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5"><br>
     </p>
 </a> 
+
+> Leetcode Stats:
+
+[![Jamshid's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Jamshid-Ganiev&theme=dark)](https://github.com/Jamshid-Ganiev/Jamshid-Ganiev)
