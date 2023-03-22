@@ -16,4 +16,4 @@ You can follow me:
     </p>
 </a> 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid-Ganiev&theme=github_dark&include_all_commits=true&count_private=true&layout=compact)
