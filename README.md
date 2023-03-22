@@ -13,6 +13,6 @@ You can follow me:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamshid-Ganiev&theme=github_dark">
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5"><br>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid-Ganiev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid-Ganiev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 </a> 
