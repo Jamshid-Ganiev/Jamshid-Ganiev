@@ -15,3 +15,5 @@ You can follow me:
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5"><br>
     </p>
 </a> 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshid-Ganiev&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
