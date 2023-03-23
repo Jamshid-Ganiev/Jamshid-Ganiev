@@ -2,7 +2,7 @@
 Hi there 👋 I'm Jamshid Ganiev, a 22-year-old Software Engineer from Uzbekistan, currently living & studying in Incheon, South Korea.
 > (23 years old in Korean age)
 
-You can follow me:
+Follow me:
 
 - GitHub: [Jamshid-Ganiev](https://github.com/Jamshid-Ganiev)
 - LinkedIn: [Jamshid-Ganiev](https://www.linkedin.com/in/Jamshid-Ganiev/)
