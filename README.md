@@ -12,9 +12,9 @@ You can follow me:
 <p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamshid-Ganiev&theme=github_dark">
     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5"><br>
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jamshid-Ganiev&theme=github_dark"><br>
 </p>
 </a>
 
-[![Jamshid-Ganiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamshid-Ganiev)](https://github.com/anuraghazra/github-readme-stats)
 
