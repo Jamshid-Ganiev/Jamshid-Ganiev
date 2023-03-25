@@ -11,10 +11,13 @@ You can follow me:
 <a href="https://github.com/Jamshid-Ganievr">
 <p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamshid-Ganiev&theme=github_dark">
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jamshid-Ganiev&theme=github_dark"><br>
+    <div style="display:flex">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jamshid-Ganiev&theme=github_dark">
+    </div>
 </p>
 </a>
+
 
 
