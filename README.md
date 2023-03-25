@@ -8,16 +8,15 @@ You can follow me:
 - LinkedIn: [Jamshid-Ganiev](https://www.linkedin.com/in/Jamshid-Ganiev/)
 <!--- Web: [Jamshid-Ganiev]()-->
 
-<a href="https://github.com/Jamshid-Ganievr">
+<a href="https://github.com/Jamshid-Ganiev">
 <p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamshid-Ganiev&theme=github_dark">
-    <div style="display:flex">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jamshid-Ganiev&theme=github_dark">
-    </div>
+    <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamshid-Ganiev&theme=github_dark">
+    <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamshid-Ganiev&theme=github_dark&utcOffset=5">
+    <img width="350" src="https://github-readme-stats.vercel.app/api?username=Jamshid-Ganiev&theme=github_dark">
 </p>
 </a>
+
 
 
 
