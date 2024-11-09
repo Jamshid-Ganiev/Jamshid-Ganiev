@@ -1,5 +1,5 @@
 - LinkedIn: [Jamshid-Ganiev](https://www.linkedin.com/in/Jamshid-Ganiev/)
-- LeetCode: [Jamshid_Ganiev](https://leetcode.com/u/Jamshid_Ganiev/)
+<!--- - LeetCode: [Jamshid_Ganiev](https://leetcode.com/u/Jamshid_Ganiev/)-->
 <!--- Web: [Jamshid-Ganiev]()-->
 
 <a href="https://github.com/Jamshid-Ganiev">
