@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Jamshid-Ganiev&color=cyan) <sup>(Since May 18, 2025)</sup>
+![](https://komarev.com/ghpvc/?username=Jamshid-Ganiev&color=green) <sup>(Since May 18, 2025)</sup>
 - LinkedIn: [Jamshid-Ganiev](https://www.linkedin.com/in/Jamshid-Ganiev/)
 <!--- - LeetCode: [Jamshid_Ganiev](https://leetcode.com/u/Jamshid_Ganiev/)-->
 <!--- Web: [Jamshid-Ganiev]()-->
